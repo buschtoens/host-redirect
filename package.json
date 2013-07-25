@@ -1,7 +1,7 @@
 {
   "name": "host-redirect",
   "description": "HTTP(S) host based redirections",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Jan Buschtöns <buschtoens@gmail.com>",
   "contributors": [
     {
