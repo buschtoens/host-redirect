@@ -1,0 +1,26 @@
+{
+  "name": "host-redirect",
+  "description": "HTTP(S) host based redirections",
+  "version": "0.0.0",
+  "author": "Jan Buschtöns <buschtoens@gmail.com>",
+  "contributors": [
+    {
+      "name": "Jan Buschtöns",
+      "email": "buschtoens@gmail.com",
+      "url": "https://github.com/silvinci"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "net",
+    "http",
+    "https",
+    "vhost",
+    "domain",
+    "redirect",
+    "router",
+    "redirection"
+  ],
+  "repository": "git://github.com/silvinci/host-redirect",
+  "main": "index"
+}
